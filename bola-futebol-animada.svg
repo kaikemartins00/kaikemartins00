@@ -1,0 +1,16 @@
+<svg width="150" height="150" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bola estilizada -->
+  <circle cx="30" cy="75" r="20" fill="white" stroke="black" stroke-width="3">
+    <!-- Anima movimento horizontal -->
+    <animate attributeName="cx" from="30" to="120" dur="2s" repeatCount="indefinite"/>
+    <!-- Anima pequena vibração vertical para parecer que rola -->
+    <animate attributeName="cy" values="75;70;75" dur="0.5s" repeatCount="indefinite"/>
+  </circle>
+  <!-- Detalhes simples da bola -->
+  <polygon points="30,55 35,65 25,65" fill="black">
+    <animate attributeName="points"
+      values="30,55 35,65 25,65; 120,55 125,65 115,65"
+      dur="2s"
+      repeatCount="indefinite"/>
+  </polygon>
+</svg>
