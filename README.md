@@ -1,16 +1,29 @@
-## Hi there 👋
+## Sou Kaike Martins 00
+- 🔭 Em bunca de trabalho em back-end
+- 🌱 Estudando Java
+- 📓 Cursando ADS e Engenharia de Software
 
-<!--
-**kaikemartins00/kaikemartins00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=kaikemartins00&show_icons=true&theme=radical" alt="GitHub Stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikemartins00&layout=compact&theme=radical" alt="Top Linguagens GitHub">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <a href = "mailto:kaikesantos739@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kaikemartins00/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="75" width="85" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg">
+</div>
+
+
+💻 IDE
+
+<p align="height">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" />
+</p>
+
+![Carro Animado](https://raw.githubusercontent.com/SEU_USERNAME/REPO/main/carro.svg)
+
