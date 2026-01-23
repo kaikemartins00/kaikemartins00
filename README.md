@@ -25,5 +25,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" />
 </p>
 
-![Carro Animado](https://raw.githubusercontent.com/SEU_USERNAME/REPO/main/carro.svg)
+![Bola de Futebol Animada]([https://raw.githubusercontent.com/SEU_USERNAME/REPO/main/carro.svg](https://raw.githubusercontent.com/kaikemartins00/kaikemartins00/refs/heads/main/bola-futebol-animada.svg))
 
