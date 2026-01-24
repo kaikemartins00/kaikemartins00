@@ -3,8 +3,7 @@
 - 🌱 Estudando Java
 - 📓 Cursando ADS e Engenharia de Software
 
-<img src="https://github-readme-stats.vercel.app/api?username=kaikemartins00&show_icons=true&theme=radical" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikemartins00&layout=compact&theme=radical" alt="Top Linguagens GitHub">
+<img src="https://github-readme-stats.vercel.app/api?username=kaikemartins00&show_icons=true&theme=radical" alt="GitHub Stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikemartins00&layout=compact&theme=radical" alt="Top Linguagens GitHub">
 
 
 <div> 
