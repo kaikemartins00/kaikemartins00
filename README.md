@@ -1,5 +1,5 @@
 ## Sou Kaike Martins 00
-- 🔭 Em bunca de trabalho em back-end
+- 🔭 Em busca de trabalho em back-end
 - 🌱 Estudando Java
 - 📓 Cursando ADS e Engenharia de Software
 
