@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Kaike Martins
 
-<!--
-**kaikemartins00/kaikemartins00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☕ Desenvolvedor Java  
+💻 Utilizo IntelliJ IDEA e Eclipse  
+📚 Estudando backend e orientação a objetos  
+🚀 Sempre buscando evoluir como programador  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias
+
+- Java
+- Git & GitHub
+- IntelliJ IDEA
+- Eclipse
+
+---
+
+## 📌 Objetivo
+
+Me tornar um desenvolvedor backend profissional, criando aplicações bem estruturadas e escaláveis.
+
+---
+
+## 📊 GitHub Stats
+
+![Kaike GitHub stats](https://github-readme-stats.vercel.app/api?username=kaikemartins00&show_icons=true&theme=dark)
