@@ -1,29 +1,49 @@
-# 👋 Olá, eu sou o kaikemartins00
+# Kaike Martins
 
-☕ Desenvolvedor Java 
-💻 Utilizo Eclipse e IntelliJ IDEA
-📚 Estudando backend e orientação a objetos 
-🚀 Sempre buscando evoluir como programador 
+Desenvolvedor Backend Java focado em boas práticas, organização de código e evolução contínua.
 
 ---
 
-## 🛠 Tecnologias
+## 👨‍💻 Sobre mim
+
+Sou desenvolvedor Java com foco em backend.
+Trabalho com orientação a objetos, organização de projetos e versionamento com Git.
+
+Atualmente evoluindo meus conhecimentos em:
+- Estruturas de dados
+- Arquitetura de software
+- APIs REST
+- Boas práticas de desenvolvimento
+
+---
+
+## 🛠 Stack Principal
 
 - Java
+- Programação Orientada a Objetos (POO)
 - Git & GitHub
 - IntelliJ IDEA
 - Eclipse
 
 ---
 
-## 📌 Objetivo
+## 📌 Projetos em destaque
 
-Me tornar um desenvolvedor backend profissional, criando aplicações bem estruturadas e escaláveis.
+### 🔹 StockManager
+Sistema de gerenciamento de estoque desenvolvido em Java.
+Aplicando conceitos de:
+- Organização em camadas
+- Regras de negócio
+- Estruturação de classes
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas
 
-![Kaike GitHub stats](https://github-readme-stats.vercel.app/api?username=kaikemartins00&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaikemartins00&show_icons=true&theme=dark)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar como desenvolvedor backend Java, contribuindo com soluções bem estruturadas, escaláveis e de qualidade.
