@@ -9,16 +9,27 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas e iniciando Eng
 ## 🚀 Tecnologias e Ferramentas
 
 ☕ Java
+
 🌱 Spring Boot
+
 🗄️ PostgreSQL & MySQL
+
 🍃 MongoDB
+
 🔗 APIs REST
+
 🐳 Docker
+
 📦 Maven
+
 🛠️ Git & GitHub
+
 📄 JSON / XML
+
 🧩 JPA / Hibernate
+
 📬 Postman / Insomnia
+
 🧠 Programação Orientada a Objetos (POO)
 
 ---
@@ -42,6 +53,4 @@ API REST para gerenciamento de estoque utilizando Java, Spring Boot, PostgreSQL 
 🎓 Iniciando Bacharelado em Engenharia de Software — Uniasselvi
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaikemartins00)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaikesantos739@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaikemartins00)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaikesantos739@gmail.com)
