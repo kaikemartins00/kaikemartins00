@@ -1,16 +1,47 @@
-# Kaike Martins
+# 👋 Olá, eu sou Kaike Martins
 
-## 👨‍💻 Sobre
+💻 Desenvolvedor Backend Java com foco em APIs REST, Spring Boot e banco de dados.
 
-Me chamo Kaike Martins, tenho 21 anos e sou natural de Aracaju/SE. Atualmente estou finalizando o curso ADS na Faculdade Mauricio de Nassau e iniciando Engenharia de Software na Uniasselvi, e por aqui eu compartilho minha evolução em java(POO).
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas e iniciando Engenharia de Software, desenvolvendo projetos utilizando Java, Spring Boot, PostgreSQL, Docker, JPA/Hibernate e arquitetura backend, compartilhando minha evolução e projetos práticos na área de desenvolvimento de software.
 
 ---
 
-☕ Java  
-💻 IntelliJ IDEA & Eclipse  
-🔧 Git & GitHub  
+## 🚀 Tecnologias e Ferramentas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaikemartins00/)
+☕ Java
+🌱 Spring Boot
+🗄️ PostgreSQL & MySQL
+🍃 MongoDB
+🔗 APIs REST
+🐳 Docker
+📦 Maven
+🛠️ Git & GitHub
+📄 JSON / XML
+🧩 JPA / Hibernate
+📬 Postman / Insomnia
+🧠 Programação Orientada a Objetos (POO)
 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaikemartins00&layout=compact&theme=dark) ![Kaike GitHub stats](https://github-readme-stats.vercel.app/api?username=kaikemartins00&show_icons=true&theme=dark)
+## 📌 Projetos em Destaque
+
+### 🔹 HelpDeskAPI
+
+Sistema de gerenciamento de chamados desenvolvido com Java, Spring Boot, PostgreSQL, JPA/Hibernate e Docker.
+
+### 🔹 StockManagerAPI
+
+API REST para gerenciamento de estoque utilizando Java, Spring Boot, PostgreSQL e Docker.
+
+---
+
+## 📚 Formação Acadêmica
+
+🎓 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas — Faculdade Maurício de Nassau
+
+🎓 Iniciando Bacharelado em Engenharia de Software — Uniasselvi
+
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaikemartins00)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaikesantos739@gmail.com)
