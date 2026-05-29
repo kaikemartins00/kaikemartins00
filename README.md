@@ -12,7 +12,11 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas e iniciando Eng
 
 🌱 Spring Boot
 
-🗄️ PostgreSQL & MySQL
+🔐 Spring Security
+
+🪪 JWT Authentication
+
+🗄️ PostgreSQL
 
 🍃 MongoDB
 
