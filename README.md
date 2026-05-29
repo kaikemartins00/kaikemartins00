@@ -46,7 +46,7 @@ Sistema de gerenciamento de chamados desenvolvido com Java, Spring Boot, Postgre
 
 ### 🔹 StockManagerAPI
 
-API REST para gerenciamento de estoque utilizando Java, Spring Boot, PostgreSQL e Docker.
+API para gerenciamento de estoque utilizando Java, Spring Boot, Spring Security + JWT, PostgreSQL e Docker.
 
 ---
 
