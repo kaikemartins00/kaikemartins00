@@ -1,60 +1,75 @@
-# 👋 Olá, eu sou Kaike Martins
+# 👨‍💻 Kaike Martins
 
-💻 Desenvolvedor Backend Java com foco em APIs REST, Spring Boot e banco de dados.
+### Desenvolvedor Java Backend
 
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas e iniciando Engenharia de Software, desenvolvendo projetos utilizando Java, Spring Boot, PostgreSQL, Docker, JPA/Hibernate e arquitetura backend, compartilhando minha evolução e projetos práticos na área de desenvolvimento de software.
+Olá! Meu nome é **Kaike Martins**, sou desenvolvedor com foco em **Java, Spring Boot, APIs REST e banco de dados**.
 
----
+Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e iniciando **Engenharia de Software**. Tenho desenvolvido projetos práticos utilizando Java e Spring Boot, trabalhando com APIs, autenticação JWT, PostgreSQL, Docker e testes.
 
-## 🚀 Tecnologias e Ferramentas
+Também estou expandindo meus conhecimentos em **JavaScript e React**, desenvolvendo o **BarberApp**, um sistema web de agendamento para barbearias que também possui integração com **Google Gemini** para funcionalidades de Inteligência Artificial.
 
-☕ Java
-
-🌱 Spring Boot
-
-🔐 Spring Security
-
-🪪 JWT Authentication
-
-🗄️ PostgreSQL
-
-🍃 MongoDB
-
-🔗 APIs REST
-
-🐳 Docker
-
-📦 Maven
-
-🛠️ Git & GitHub
-
-📄 JSON / XML
-
-🧩 JPA / Hibernate
-
-📬 Postman / Insomnia
-
-🧠 Programação Orientada a Objetos (POO)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/kaikemartins00)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/kaikemartins00)
 
 ---
 
-## 📌 Projetos em Destaque
+## 🧑‍💻 Linguagens e Tecnologias
 
-### 🔹 HelpDeskAPI
-
-Sistema de gerenciamento de chamados desenvolvido com Java, Spring Boot, PostgreSQL, JPA/Hibernate e Docker.
-
-### 🔹 StockManagerAPI
-
-API para gerenciamento de estoque utilizando Java, Spring Boot, Spring Security + JWT, PostgreSQL e Docker.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,postgres,mysql,mongodb,docker,git,github,maven,postman,kotlin" />
+</p>
 
 ---
 
-## 📚 Formação Acadêmica
+## 📊 Estatísticas
 
-🎓 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas — Faculdade Maurício de Nassau
-
-🎓 Iniciando Bacharelado em Engenharia de Software — Uniasselvi
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaikemartins00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikemartins00&layout=compact&theme=tokyonight&langs_count=8"/>
+</p>
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaikemartins00)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaikesantos739@gmail.com)
+
+## 💻 Tecnologias
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikemartins00&layout=donut&theme=tokyonight&langs_count=8"/>
+</p>
+
+---
+
+## 🚀 Projetos
+
+### 💈 BarberApp
+
+Sistema web para agendamento e gerenciamento de uma barbearia.
+
+**Tecnologias:** Java • Spring Boot • PostgreSQL • JavaScript • React • Docker • JWT • Google Gemini
+
+### 📦 StockManager API
+
+API REST para gerenciamento de estoque, produtos e movimentações.
+
+**Tecnologias:** Java • Spring Boot • PostgreSQL • Spring Security • JWT • Docker • JUnit • Mockito
+
+### 🎫 HelpDesk API
+
+API REST para gerenciamento de chamados, usuários e técnicos.
+
+**Tecnologias:** Java • Spring Boot • PostgreSQL • JPA/Hibernate • Docker
+
+---
+
+## 🎓 Formação
+
+**Análise e Desenvolvimento de Sistemas**
+Faculdade Maurício de Nassau — conclusão prevista: **12/2026**
+
+**Engenharia de Software**
+Uniasselvi — conclusão prevista: **12/2029**
+
+---
+
+<p align="center">
+  <i>🚀 Desenvolvendo projetos e evoluindo constantemente na área de tecnologia.</i>
+</p>
