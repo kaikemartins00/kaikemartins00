@@ -34,7 +34,7 @@ desenvolvimento de software.
 ```bash
 $ git log --oneline formacao
 v1.0.0  cursando    Tecnólogo em Análise e Desenvolvimento de Sistemas — Maurício de Nassau
-v2.0.0  a iniciar   Bacharelado em Engenharia de Software — Uniasselvi
+v2.0.0  cursando   Bacharelado em Engenharia de Software — Uniasselvi
 ```
 
 ## 📊 Estatísticas do GitHub
